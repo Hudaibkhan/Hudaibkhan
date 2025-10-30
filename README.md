@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hudaib Arif</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hudaib</h1>
 <h3 align="center">AI & Full Stack Developer | Generative AI Developer | Tech Innovator 🚀</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Python**, **Backend Development**, and **AI**  
 - 👨‍💻 All of my projects are available at: [My Portfolio](https://portfolio-in-wordpress.vercel.app/)  
 - 💬 Ask me about: **Next.js**, **TypeScript**, **Tailwind CSS**, **Sanity**, **Generative AI**  
-- 📫 How to reach me: **hudaibofficial@gmail.com**  
+- 📫 How to reach me: **hudaibarif13@gmail.com**  
 - ⚡ Fun Fact: I’m a **Hafiz of the Quran** and love building **AI-powered web apps** that solve real problems  
 
 ---
