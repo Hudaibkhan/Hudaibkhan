@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Next.js, Tailwind CSS, and Sanity CMS** projects  
 - 🌱 I’m currently learning **Python**, **Backend Development**, and **AI**  
-- 👨‍💻 All of my projects are available at: [My Portfolio](#https://portfolio-in-wordpress.vercel.app/)  
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://portfolio-in-wordpress.vercel.app/)  
 - 💬 Ask me about: **Next.js**, **TypeScript**, **Tailwind CSS**, **Sanity**, **Generative AI**  
 - 📫 How to reach me: **hudaibofficial@gmail.com**  
 - ⚡ Fun Fact: I’m a **Hafiz of the Quran** and love building **AI-powered web apps** that solve real problems  
